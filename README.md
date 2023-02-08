@@ -241,6 +241,13 @@ If you like this project please reach out to me on my social media, hire me for 
 
 I would like to thankmy Microverse team and my coding partners for their support and guidance.
 
+<!-- dark background -->
+Attributions for images used:
+
+-  <a href="https://www.freepik.com/free-photo/solid-concrete-wall-textured-backdrop_17839221.htm#query=dark%20background&position=17&from_view=search&track=sph">Dark background Image by rawpixel.com</a> 
+-   <a href="https://www.freepik.com/free-photo/friends-enjoying-hot-coffee_2977358.htm#page=2&query=a%20group%20of%20people&position=7&from_view=search&track=ais">Image by rawpixel.com</a> on Freepik
+-  <a href="https://www.freepik.com/free-photo/happy-diverse-friends_2758644.htm#page=2&query=a%20group%20of%20people&position=21&from_view=search&track=ais">Image by rawpixel.com</a> on Freepik
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- project presentation -->
