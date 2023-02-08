@@ -60,7 +60,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [First Capstone Project] 
+# 📖 [Global Canvas Art Exhibition Concert] 
 
 > This project tests my skills on various topics mastered during the first module.
 
