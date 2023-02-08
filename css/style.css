@@ -169,12 +169,12 @@
   padding: 2em 0;
 }
 
-.main-program h3 {
+#main-program {
   color: #fff;
   font-size: 28px;
 }
 
-.main-program h3::after {
+#main-program::after {
   content: "";
   display: block;
   height: 2px;

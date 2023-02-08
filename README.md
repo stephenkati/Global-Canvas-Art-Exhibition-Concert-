@@ -63,7 +63,6 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Global Canvas Art Exhibition Concert] 
 
-> This project tests my skills on various topics mastered during the first module.
 
 **[Global Canvas Art Exhibition Concert]** is a concert for showcasing art and giving artists and art lovers an oportunity to explore different galleries, be challenged as well as meet new people with similiar interests. 
 
@@ -282,6 +281,5 @@ Attributions for images used:
 
 This project is <a href="https://github.com/stephenkati/Global-Canvas-Art-Exhibition-Concert-/blob/features/License.md"> MIT  licensed.</a>
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
