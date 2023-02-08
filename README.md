@@ -178,8 +178,8 @@ To run the project, navigate to the project directory and use a live Server exte
 
 You can run tests to check for linter errors by running the following commands:
 
--npx stylelint "**/*.{css,scss}" for testing css errors
--npx eslint . for Javascript errors
+- npx stylelint "**/*.{css,scss}" for testing css errors
+- npx eslint . for Javascript errors
 
 
 ### Deployment
@@ -249,7 +249,7 @@ I would like to thankmy Microverse team and my coding partners for their support
 ##  PRESENTATION  <a name="presentation"></a>
 
 **PROJECT PRESENTATION VIDEO**
-Follow this <a href="https://www.loom.com/share/6d4bce911db0406d9f5f246a3722c7f1">link</a> to see a brief presentation of the project.
+- Follow this <a href="https://www.loom.com/share/6d4bce911db0406d9f5f246a3722c7f1">link</a> to see a brief presentation of the project.
 
 
 <!-- FAQ (optional) -->
