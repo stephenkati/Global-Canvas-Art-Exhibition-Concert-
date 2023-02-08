@@ -55,6 +55,7 @@ After you're finished please remove all the comments and instructions!
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [Video-presentation](#presentation)
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
@@ -114,7 +115,7 @@ The website is build with HTML, CSS and Javascript.
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://stephenkati.github.io/First-capstone-project/)
+- [Live Demo Link](https://github.com/stephenkati/Global-Canvas-Art-Exhibition-Concert-/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,7 +128,7 @@ A new developer can get the project from my Github repo link i shall provide.
 To get a local copy up and running, follow these steps.
 
 
-go to https://github.com/stephenkati/First-capstone-project
+go to https://github.com/stephenkati/Global-Canvas-Art-Exhibition-Concert-/
 
 clone or download the project
 
@@ -147,7 +148,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-run git clone https://github.com/stephenkati/First-capstone-project.git
+run git clone https://github.com/stephenkati/Global-Canvas-Art-Exhibition-Concert-/.git
 
 or
 
@@ -184,7 +185,7 @@ You can run tests to check for linter errors by running the following commands:
 
 ### Deployment
 
-The app is deployed on Github pages. Follow the link below: https://stephenkati.github.io/First-capstone-project/
+The app is deployed on Github pages. Follow the link below: https://stephenkati.github.io/Global-Canvas-Art-Exhibition-Concert-/
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -222,7 +223,7 @@ The app is deployed on Github pages. Follow the link below: https://stephenkati.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/stephenkati/First-capstone-project/issues).
+Feel free to check the [issues page](https://github.com/stephenkati/Global-Canvas-Art-Exhibition-Concert-/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -238,8 +239,9 @@ If you like this project please reach out to me on my social media, hire me for 
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
 I would like to thankmy Microverse team and my coding partners for their support and guidance.
+I would like to thank Cindy Shin for allowing me to use their work.
+
 
 <!-- dark background -->
 Attributions for images used:
@@ -250,12 +252,13 @@ Attributions for images used:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- project presentation -->
 
+<!--A video of project presentation -->
 
 ##  PRESENTATION  <a name="presentation"></a>
 
 **PROJECT PRESENTATION VIDEO**
+
 - Follow this <a href="https://www.loom.com/share/6d4bce911db0406d9f5f246a3722c7f1">link</a> to see a brief presentation of the project.
 
 

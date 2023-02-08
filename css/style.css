@@ -35,7 +35,7 @@
   height: 100vh;
   position: absolute;
   top: 0;
-  left: -100%;
+  left: -100vw;
   background-color: #fff;
   transition: left 300ms ease-in;
 }
@@ -161,6 +161,16 @@
   font-size: 28px;
 }
 
+.main-program h3::after{
+  content: "";
+  display: block;
+  height: 2px;
+  width: 2.5em;
+  background-color: #ec5242;
+  text-align: center;
+  margin: 1em 2em 0;
+}
+
 .program-cards-layout {
   display: flex;
   flex-direction: column;
@@ -220,6 +230,16 @@
   font-size: 30px;
 }
 
+.featured-speakers::after{
+  content: "";
+  display: block;
+  height: 2px;
+  width: 2em;
+  background-color: #ec5242;
+  text-align: center;
+  margin: .5em 3em 0;
+}
+
 .speakers-cards-layout {
   display: flex;
   flex-direction: column;
@@ -248,12 +268,18 @@
 }
 
 .img {
-  width: 12%;
+  width: 13%;
+  padding-left: .5em;
+  padding-top: .5em;
+  background-image: url(../images/speaker-back.png);
+  background-position: 10% 1%;
+  background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 .img img {
-  width: 90px;
-  height: 90px;
+  width: 95px;
+  height: 95px;
   object-fit: cover;
 }
 
@@ -321,6 +347,18 @@ footer {
   padding: 2em;
   align-items: center;
   justify-content: center;
+}
+
+.about-footer {
+  display: flex;
+  gap: 3em;
+  padding: 2em;
+  align-items: center;
+  justify-content: center;
+}
+
+.about-desk-footer {
+  display: none;
 }
 
 .logo {
@@ -443,8 +481,8 @@ footer {
 }
 
 .concert-card-one {
-  width: 400px;
-  height: 250px;
+  width: 100%;
+  height: 220px;
   background-image:
     linear-gradient(
       rgba(255, 0, 0, 0.45),
@@ -462,8 +500,8 @@ footer {
 }
 
 .concert-card-two {
-  width: 400px;
-  height: 250px;
+  width: 100%;
+  height: 220px;
   background-image:
     linear-gradient(
       rgba(255, 0, 0, 0.45),
@@ -486,6 +524,34 @@ footer {
 .text-overlay {
   color: #fff;
   font-size: 20px;
+}
+
+.partner-about {
+  background-color: #272a31;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2em;
+  height: 200px;
+}
+
+.partner-about-title {
+  color: #fff;
+  font-size: 24px;
+}
+
+.partner-about li {
+  color: #d3d3d3;
+  list-style: none;
+  font-size: 24px;
+}
+
+.partner-about ul {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
 }
 
 /* about page */
@@ -624,6 +690,8 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
+    text-align: center;
     gap: 1.5em;
     width: 188px;
     height: 190px;
@@ -677,12 +745,12 @@ footer {
   }
 
   .speaker-card {
-    width: 48%;
+    width: 45%;
     height: 100%;
     display: flex;
     align-items: center;
     background-color: #fff;
-    padding: 0.6em 0.2em;
+    padding: 0.6em 1em;
   }
 
   .speaker-card:nth-child(n+3) {
@@ -691,11 +759,17 @@ footer {
 
   .img {
     width: 12%;
+    padding-left: .5em;
+    padding-top: .5em;
+    background-image: url(../images/speaker-back.png);
+    background-position: 10% 1%;
+    background-repeat: no-repeat;
+    background-size: 100%;
   }
 
   .img img {
-    width: 90px;
-    height: 90px;
+    width: 95px;
+    height: 95px;
     object-fit: cover;
   }
 
@@ -773,5 +847,38 @@ footer {
     margin-bottom: 1em;
   }
 
+  .partner-about {
+    display: none;
+  }
+
+  .about-desk-footer {
+    background-color: #272a31;
+    display: flex;
+    gap: 3em;
+    padding: 2em;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .about-desk-footer .logo h5{
+    width: 30vw;
+    font-size: 30px;
+    color: #fff;
+  }
+  
+  .about-desk-footer .details p{
+    font-size: 14px;
+    color: #fff;
+    line-height: 18px;
+  }
+  
+  .about-desk-footer .p-desk {
+    display: block;
+    color: #fff;
+  }
+
+  .about-footer {
+    display: none;
+  }
   /* about page */
 }
