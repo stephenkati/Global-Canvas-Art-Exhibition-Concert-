@@ -258,7 +258,7 @@ Attributions for images used:
 
 **PROJECT PRESENTATION VIDEO**
 
-- Follow this <a href="https://www.loom.com/share/6d4bce911db0406d9f5f246a3722c7f1">link</a> to see a brief presentation of the project.
+- Follow this <a href="https://www.loom.com/share/19d0673e5462476aabcb5a384976e55d">link</a> to see a brief presentation of the project.
 
 
 <!-- FAQ (optional) -->
