@@ -61,6 +61,12 @@
   font-size: 24px;
 }
 
+.partner-about li {
+  color: #d3d3d3;
+  list-style: none;
+  font-size: 24px;
+}
+
 .mobile-nav nav i {
   font-size: 28px;
   position: absolute;
@@ -69,6 +75,13 @@
 }
 
 .partner ul {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+}
+
+.partner-about ul {
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -161,7 +174,7 @@
   font-size: 28px;
 }
 
-.main-program h3::after{
+.main-program h3::after {
   content: "";
   display: block;
   height: 2px;
@@ -230,14 +243,14 @@
   font-size: 30px;
 }
 
-.featured-speakers::after{
-   content: "";
+.featured-speakers::after {
+  content: "";
   display: block;
   height: 2px;
   width: 2em;
   background-color: #ec5242;
   text-align: center;
-  margin: .5em 3em 0;
+  margin: 0.5em 3em 0;
 }
 
 .speakers-cards-layout {
@@ -269,8 +282,8 @@
 
 .img {
   width: 13%;
-  padding-left: .5em;
-  padding-top: .5em;
+  padding-left: 0.5em;
+  padding-top: 0.5em;
   background-image: url(../images/speaker-back.png);
   background-position: 10% 1%;
   background-repeat: no-repeat;
@@ -541,19 +554,6 @@ footer {
   font-size: 24px;
 }
 
-.partner-about li {
-  color: #d3d3d3;
-  list-style: none;
-  font-size: 24px;
-}
-
-.partner-about ul {
-  display: flex;
-  justify-content: center;
-  flex-wrap: wrap;
-  gap: 30px;
-}
-
 /* about page */
 
 /* media query for screen above 768px */
@@ -759,8 +759,8 @@ footer {
 
   .img {
     width: 12%;
-    padding-left: .5em;
-    padding-top: .5em;
+    padding-left: 0.5em;
+    padding-top: 0.5em;
     background-image: url(../images/speaker-back.png);
     background-position: 10% 1%;
     background-repeat: no-repeat;
@@ -859,19 +859,19 @@ footer {
     align-items: center;
     justify-content: center;
   }
-  
-  .about-desk-footer .logo h5{
+
+  .about-desk-footer .logo h5 {
     width: 30vw;
     font-size: 30px;
     color: #fff;
   }
-  
-  .about-desk-footer .details p{
+
+  .about-desk-footer .details p {
     font-size: 14px;
     color: #fff;
     line-height: 18px;
   }
-  
+
   .about-desk-footer .p-desk {
     display: block;
     color: #fff;
@@ -880,5 +880,6 @@ footer {
   .about-footer {
     display: none;
   }
+
   /* about page */
 }
