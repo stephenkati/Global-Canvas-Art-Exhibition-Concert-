@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 [Global Canvas Art Exhibition Concert] 
 
 
-**[Global Canvas Art Exhibition Concert]** is a concert for showcasing art and giving artists and art lovers an oportunity to explore different galleries, be challenged as well as meet new people with similiar interests. 
+**[Global Canvas Art Exhibition Concert]** is a concert for showcasing art and giving artists and art lovers an opportunity to explore different galleries, be challenged as well as meet new people with similar interests. 
 
 The website is build with HTML, CSS and Javascript.
 
