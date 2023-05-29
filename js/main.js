@@ -1,4 +1,3 @@
-// mobile menu
 const hambuger = document.querySelector('#hambuger');
 const menu = document.querySelector('#mobile-menu');
 const closed = document.querySelector('#close');
@@ -14,7 +13,6 @@ closed.addEventListener('click', () => {
 
 navitem.forEach((n) => n.addEventListener('click', () => menu.classList.remove('show-menu')));
 
-// toggle cards for speakers
 const more = document.querySelector('#more');
 const speakercardshide = document.querySelector('.speaker-card:nth-child(n+3)');
 const morebtn = document.querySelector('.before-expand');
@@ -94,11 +92,9 @@ const speakers = [
   },
 ];
 
-// display cards in website refactor
 const speakercardslayout = document.querySelector('.speakers-cards-layout');
 
 speakers.forEach((speaker) => {
-  // console.log(speaker.id);
 
   const speakercard = document.createElement('div');
   speakercard.classList.add('speaker-card');
